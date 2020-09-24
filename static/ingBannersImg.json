@@ -1,0 +1,52 @@
+[
+    {
+        "id": "8039",
+        "image_url": "https://image.brandi.me/event/2020/09/23/1600828859_banner.jpg",
+        "type": "product"
+    },
+    {
+        "id": "8016",
+        "image_url": "https://image.brandi.me/event/2020/09/23/1600836945_banner.jpg",
+        "type": "answer"
+    },
+    {
+        "id": "8011",
+        "image_url": "https://image.brandi.me/event/2020/09/23/1600856012_banner.jpg",
+        "type": "product"
+    },
+    {
+        "id": "8044",
+        "image_url": "https://image.brandi.me/event/2020/09/21/1600652492_banner.jpg",
+        "type": "answer"
+    },
+    {
+        "id": "8111",
+        "image_url": "https://image.brandi.me/event/2020/09/21/1600655430_banner.jpg",
+        "type": "answer"
+    },
+    {
+        "id": "8107",
+        "image_url": "https://image.brandi.me/event/2020/09/21/1600650803_banner.jpg",
+        "type": "product"
+    },
+    {
+        "id": "8106",
+        "image_url": "https://image.brandi.me/event/2020/09/20/1600568126_banner.jpg",
+        "type": "product"
+    },
+    {
+        "id": "8099",
+        "image_url": "https://image.brandi.me/event/2020/09/18/1600412564_banner.jpg",
+        "type": "product"
+    },
+    {
+        "id": "8098",
+        "image_url": "https://image.brandi.me/event/2020/09/21/1600659073_banner.jpg",
+        "type": "product"
+    },
+    {
+        "id": "8080",
+        "image_url": "https://image.brandi.me/event/2020/09/18/1600416965_banner.jpg",
+        "type": "product"
+    }
+]
